@@ -7,4 +7,4 @@
 
 具体分析内容参考此博客https://blog.csdn.net/DriverCSDN/article/details/103856595
 
-主要实现代码在main.py和Useranalysis.py中，其余皆为资源文件
+主要实现代码在main.py和Useranalysis.py中，其余皆为资源文件，使用时直接打开main.py即可
